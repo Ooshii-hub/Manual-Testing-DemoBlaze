@@ -58,6 +58,7 @@ These techniques were applied to ensure meaningful coverage rather than random t
 - Major Defects-2
   
 **Sample Defects Identified**
+
 -**DEF-001 – Critical**
 Checkout process allows order submission with empty mandatory fields.
 
